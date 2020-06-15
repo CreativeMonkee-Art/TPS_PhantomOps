@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TPS_PhantomOps",
+			"Path": "E:\\GitHub\\TPS_PhantomOps\\TPS_PhantomOps\\Source\\TPS_PhantomOps.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TPS_PhantomOpsEditor",
+			"Path": "E:\\GitHub\\TPS_PhantomOps\\TPS_PhantomOps\\Source\\TPS_PhantomOpsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

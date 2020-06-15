@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\GitHub\\TPS_PhantomOps\\TPS_PhantomOps\\Source\\TPS_PhantomOps\\TPS_PhantomOps.Build.cs",
+		"E:\\GitHub\\TPS_PhantomOps\\TPS_PhantomOps\\Source\\TPS_PhantomOps.Target.cs",
+		"E:\\GitHub\\TPS_PhantomOps\\TPS_PhantomOps\\Source\\TPS_PhantomOpsEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.1"
+}
